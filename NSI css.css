@@ -1,0 +1,33 @@
+﻿p.rouge {
+color: red;
+} 
+
+span {
+font-style : italic;
+}
+
+body {
+background-color:rgb(153, 142, 142);
+font-family:'Courier New', Courier, monospace;
+}
+
+div {
+text-align: center;
+}
+
+button {
+    text-align: center;
+
+}
+
+section {
+    border: solid rgb(10, 10, 10);
+    background-color: whitesmoke;
+}
+
+a.entoure {
+    border: dotted #00c2fd;
+    background-color: #00c2fd;
+}
+
+
