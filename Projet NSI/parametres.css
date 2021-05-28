@@ -1,0 +1,53 @@
+﻿p.rouge {
+color: red;
+} 
+
+span {
+font-style : italic;
+}
+
+body {
+background-color:rgb(153, 142, 142);
+font-family:'Courier New', Courier, monospace;
+}
+
+div {
+text-align: center;
+}
+
+button {
+    text-align: center;
+
+}
+
+section {
+    border: solid rgb(10, 10, 10);
+    background-color: whitesmoke;
+}
+
+a.entoure {
+    background-color: rgb(214, 9, 9);
+}
+
+#game table {
+    border: 3px blue outset;
+    background-color: blue;
+}
+#game td {
+    width: 2cm;
+    height: 2cm;
+    margin: 0px;
+    padding: 0px;
+    border: 2px blue inset;
+    border-radius: 2cm;
+    background-color: white;
+    cursor: pointer;
+}
+#game td.player1 {
+    background-color: red;
+}
+#game td.player2 {
+    background-color: yellow;
+}
+
+
